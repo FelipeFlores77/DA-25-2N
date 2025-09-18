@@ -1,0 +1,8 @@
+1 cmd ou git bash
+2 cat pokemons.txt
+3 grep Chikorita pokemons.txt
+4 grep -B 2 Pikachu pokemons.txt 
+5 grep -A 3 Pikachu pokemons.txt 
+6 head -n 152 pokemons.txt
+7 tail -n 100 pokemons.txt
+
